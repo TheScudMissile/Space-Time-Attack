@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aab87aab24779da449b957977a7900a0
+timeCreated: 1495845263
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {instanceID: 0}
+  - turretSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

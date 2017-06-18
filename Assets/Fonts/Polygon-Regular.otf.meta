@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 72e1b7d3fd7a1ee4494481ddb5a94e59
+timeCreated: 1497230100
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Polygon
+  fontNames:
+  - Polygon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
